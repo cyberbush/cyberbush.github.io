@@ -1,3 +1,3 @@
-# David_Bush.github.io
+# cyberbush.github.io
 
 Website containing my portfolio
