@@ -2,4 +2,4 @@
 
 Website containing my portfolio
 
-[View](cyberbush.github.io)
+[View](https://cyberbush.github.io/)
