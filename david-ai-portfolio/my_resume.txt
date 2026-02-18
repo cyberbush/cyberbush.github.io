@@ -1,0 +1,39 @@
+David Bush
+cyberbush3@gmail.com| linkedin.com/in/dbush3
+ Work Experience	
+
+
+Software Engineer at Capital One  					                                                         Feb 2023 - Current
+Led a strategic GenAI initiative to decode complex business logic, architecting a RAG-based AI system using LangChain and ChromaDB to index 400k+ lines of Scala; projected to save the team 20+ weekly engineering hours.
+Optimized LLM reliability by implementing syntax-aware recursive chunking and strict system prompt constraints, suppressing hallucinations and ensuring answers were grounded purely in the retrieved Scala context.
+Engineered a Spark-based data pipeline for migrating 2B+ transactions for 13M+ accounts, optimizing runtime by 60%+ through strategic EMR scaling, data-caching, and node partitioning.
+Delivered a subscription and billing portal MVP using Zuora and Stripe APIs; implemented secure payment iframes and invoice tables that enabled 3,000+ dealers to manage payments, driving $50M/month in platform revenue.
+Modernized a critical auto-loan ingestion system by consolidating 8 disparate Kafka streams into a unified Spark component, eliminating legacy architectural debt and executing a risk-managed rollout with delta monitoring.
+Validated 2B+ migrated transactions using Snowflake and SQL, executing comprehensive audits to certify 100% data accuracy, preventing downstream errors and enabling the final legacy system cutover.
+Deployed event-driven cloud infrastructure (AWS CloudWatch, SNS, SQS), creating custom monitoring dashboards to ensure real-time insights for national platform rollouts.
+Software Engineering Intern at Capital One						                         Jun 2022 - Aug 2022
+Built a real-time data service to unify marketing streams, improving data consistency for analytic dashboards.
+ Projects
+
+AI Meeting Summarizer – Generative AI Hackathon                                                    Capital One, Aug 2024 -- Top 10/53 Teams
+Spearheaded a 4-person team to develop a NLP pipeline utilizing the Mistral LLM for processing Zoom transcripts, generating concise summaries, and extracting actionable items, delivered via a Slack Agent integration.
+Advanced to the final round (Top 10 out of 270+ ideas) and pitched the end-to-end GenAI solution directly to Capital One leadership.
+ML Breast Cancer Detection – Data Science Competition                                            University of Idaho, Sep 2022 -- 2nd Place
+Developed a machine vision classifier using PyTorch and EfficientNet-B4 to analyze ultrasound imagery, achieving 80.16% accuracy (surpassing human benchmarks of 70%).
+Designed an image processing pipeline for robust data augmentation (rotation, scaling) and utilized k-fold cross-validation to resolve class imbalance and maximize model generalization.
+ Education 
+
+
+Master of Science in Artificial Intelligence	 	                                                              Jan 2024 - May 2026 (expected)
+University of Texas at Austin, TX							                                                     GPA: 3.9/4.0
+Coursework:  Deep Learning, Machine Learning, Reinforcement Learning, Generative AI, Transformers, AI in Healthcare
+Bachelor of Science in Computer Science		                                                                                  Aug 2017 - Dec 2022
+University of Idaho, Moscow, ID			                                                                                   
+Amazon Web Services Solutions Architect - Associate                                                                              Issued: July 2023
+
+ Skills
+
+Programming Languages: Python, SQL, Java, Javascript,, Bash/Shell
+ML & AI: PyTorch, TensorFlow, HuggingFace, LangChain, LoRA/PEFT, LLMs, Transformers,  Agentic Workflows, RAG,  NumPy/Pandas
+Cloud & Data: Apache Spark, Kafka, AWS (EMR, S3, Lambda, EC2, SQS, SNS, CloudWatch, IAM), Snowflake, ETL/ELT pipelines
+DevOps & Tools: Docker, Git/GitHub, Jenkins, Postman, Unix/Linux, PagerDuty, Lucid Charts, Splunk

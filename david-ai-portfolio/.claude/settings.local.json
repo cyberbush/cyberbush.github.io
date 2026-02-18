@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm build:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git -C /Users/cyberbush/Documents/Documents/GitHub/cyberbush.github.io-master/david-ai-portfolio status)",
+      "Bash(git -C /Users/cyberbush/Documents/Documents/GitHub/cyberbush.github.io-master/david-ai-portfolio diff --stat)",
+      "Bash(git -C /Users/cyberbush/Documents/Documents/GitHub/cyberbush.github.io-master/david-ai-portfolio log --oneline -3)"
+    ]
+  }
+}
