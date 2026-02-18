@@ -1,4 +1,6 @@
 import { baseUrl } from 'app/sitemap'
+
+export const dynamic = 'force-static'
 import { getBlogPosts } from 'app/blog/utils'
 
 export async function GET() {
