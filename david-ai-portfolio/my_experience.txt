@@ -1,0 +1,81 @@
+About Me
+I architect scalable Generative AI systems and high-throughput data pipelines. Currently, I am completing my Master of Science in Artificial Intelligence at the University of Texas at Austin.
+
+When I'm off the clock:
+
+Outdoors: Originally from Idaho, I spend as much time as possible hiking in the mountains, fishing, and cooking wild game.
+
+Travel: I love exploring new places and experiencing different cultures, from staying at Amazon lodges in Ecuador to discovering new spots around the globe.
+
+Local: I'm a big hockey fan and love cheering on the Dallas Stars.
+
+David Bush | AI/ML Engineer
+
+AI/ML Engineer with a proven track record of architecting scalable Generative AI systems and high-throughput data pipelines. Currently completing a Master of Science in Artificial Intelligence at the University of Texas at Austin, focusing on deep learning, reinforcement learning, and transformers. I specialize in bridging the gap between cutting-edge AI research and robust, production-ready enterprise applications.
+
+2. Professional Experience
+When listing your Capital One experience, we are putting your RAG and Big Data work front and center.
+
+Software Engineer | Capital One
+(Feb 2023 - Present)
+
+Led a strategic GenAI initiative to decode complex business logic, architecting a RAG-based AI system.
+
+Utilized LangChain and ChromaDB to index 400k+ lines of Scala, a project projected to save 20+ weekly engineering hours.
+
+Optimized LLM reliability by implementing syntax-aware recursive chunking and strict system prompt constraints to suppress hallucinations.
+
+Engineered a Spark-based data pipeline for migrating 2B+ transactions across 13M+ accounts.
+
+Optimized pipeline runtime by 60%+ through strategic AWS EMR scaling, data-caching, and node partitioning.
+
+Modernized a critical auto-loan ingestion system by consolidating 8 disparate Kafka streams into a unified Spark component, eliminating legacy architectural debt.
+
+Delivered a subscription and billing portal MVP using Zuora and Stripe APIs, driving $50M/month in platform revenue.
+
+Software Engineering Intern | Capital One
+(Jun 2022 - Aug 2022)
+
+Built a real-time data service to unify marketing streams, improving data consistency for analytic dashboards.
+
+3. Featured Projects
+Your projects validate your end-to-end technical skills. These write-ups focus on the problem, the tools used, and the measurable outcome.
+
+AI Meeting Summarizer
+
+Spearheaded a 4-person team to develop an NLP pipeline utilizing the Mistral LLM for processing Zoom transcripts.
+
+Generated concise summaries and extracted actionable items, delivered seamlessly via a Slack Agent integration.
+
+Advanced to the final round (Top 10 out of 53 teams) and pitched the end-to-end GenAI solution directly to Capital One leadership.
+
+ML Breast Cancer Detection Classifier
+
+Developed a machine vision classifier using PyTorch and EfficientNet-B4 to analyze ultrasound imagery.
+
+Achieved 80.16% test accuracy, surpassing human benchmarks of 70%.
+
+Designed an image processing pipeline for robust data augmentation and utilized k-fold cross-validation to resolve class imbalance and maximize model generalization.
+
+Agentic Nutritional Meal Planner (In Development)
+
+Developing a full-stack, AI-driven application designed to dynamically generate highly specific meal prep strategies based on targeted macronutrient and dietary requirements.
+
+4. Core Competencies & Education
+Recruiters and Applicant Tracking Systems (ATS) actively scan for these exact keywords.
+
+Education & Certifications
+
+Master of Science in Artificial Intelligence – University of Texas at Austin (Expected May 2026).
+
+Bachelor of Science in Computer Science – University of Idaho (GPA: 3.9/4.0).
+
+AWS Certified Solutions Architect – Associate (Issued July 2023).
+
+Technical Skills
+
+ML & AI: PyTorch, TensorFlow, HuggingFace, LangChain, LoRA/PEFT, LLMs, Transformers, Agentic Workflows, RAG, NumPy/Pandas.
+
+Cloud & Data: Apache Spark, Kafka, Snowflake, AWS (EMR, S3, Lambda, EC2, SQS, SNS, CloudWatch, IAM), ETL/ELT pipelines.
+
+Languages: Python, SQL, Java, JavaScript, Bash/Shell
